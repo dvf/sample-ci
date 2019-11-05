@@ -2,5 +2,5 @@
   "DATABASE": {
     "NAME": ":memory:"
   },
-  "DEBUG": false,
+  "DEBUG": false
 }
